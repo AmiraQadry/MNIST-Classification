@@ -1,4 +1,4 @@
-# MNIST Classification Project
+# MNIST Classification
 ![](https://www.researchgate.net/publication/306056875/figure/fig1/AS:393921575309346@1470929630835/Example-images-from-the-MNIST-dataset.png)
 
 This project involves classifying handwritten digits from the MNIST dataset using various machine learning techniques. The goal is to train and evaluate models to accurately recognize digits from 0 to 9.
